@@ -31,11 +31,11 @@ cd some-dir
 composer require drupal/devel:~1.0
 ```
 
-The `composer create-project` command passes ownership of all files to the 
+<!-- The `composer create-project` command passes ownership of all files to the 
 project that is created. You should create a new git repository, and commit 
 all files not excluded by the .gitignore file.
 
-## What does the template do?
+## What does the template do? -->
 
 When installing the given `composer.json` some tasks are taken care of:
 
